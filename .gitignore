@@ -1,0 +1,4 @@
+**/*.csv
+.DS_Store
+exploration.ipynb
+interview.ipynb
